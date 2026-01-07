@@ -1,33 +1,40 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-
+import React from 'react'
+import Navbar from './components/Navbar'
+import HeroSection from './components/HeroSection'
+import TrustedSection from './components/TrustedSection'
+import SectionC from './components/SectionC'
+import FloatingChat from './components/FloatingChat'
+import SectionD from './components/SectionD'
+import SectionE from './components/SectionE.JSX'
+import Footer from "./components/Footer/Footer"
+import Section00 from "./components/Section4/Section4"
+import Section3 from "./components/Section3/Section3"
+import Section2 from "./components/Section2/Section2"
+import Section1 from "./components/Section1/Section1"
+import ReviewsSection from "./components/Reviews/Reviews"
+import Section0 from "./components/Section0/Sectio0"
+import SectionF from './components/SectionF'
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+     <Navbar/>
+    <HeroSection/>
+    <TrustedSection/>
+<SectionC/>
+<FloatingChat/>
+<SectionD/>
+<SectionE/>
+<Section0/>
+<SectionF/>
+<ReviewsSection/>
+<Section1/>
+<Section2/>
+<Section3/>
+<Section00/>
+<Footer/>
+
     </>
   )
 }
