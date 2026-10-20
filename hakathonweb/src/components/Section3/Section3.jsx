@@ -35,7 +35,7 @@ const Section3 = () => {
           {/* Article 2 */}
           <div className="bg-gray-50 rounded-3xl overflow-hidden shadow-lg">
             <img
-              src="/images/Screen Shot 2026-01-07 at 2.08.43 PM.png"
+              src="/hackathonWeb/images/Screen Shot 2026-01-07 at 2.08.43 PM.png"
               alt="Master Resell Rights Guide"
               className="w-full h-64 object-cover"
             />
@@ -52,7 +52,7 @@ const Section3 = () => {
           {/* Article 3 */}
           <div className="bg-gray-50 rounded-3xl overflow-hidden shadow-lg">
             <img
-              src="/images/Screen Shot 2026-01-07 at 2.08.56 PM.png"
+              src="/hackathonWeb/images/Screen Shot 2026-01-07 at 2.08.56 PM.png"
               alt="Customer Retention Strategies"
               className="w-full h-64 object-cover"
             />

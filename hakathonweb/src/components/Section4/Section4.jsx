@@ -64,7 +64,7 @@ export default function Section00() {
         {/* Image showcase */}
         <div className="mt-20 flex justify-center">
           <img
-           src="/images/Screen Shot 2026-01-07 at 1.48.18 PM.png"
+           src="/hackathonWeb/images/Screen Shot 2026-01-07 at 1.48.18 PM.png"
             alt="product showcase"
             className="max-w-full rounded-xl shadow-2xl"
           />

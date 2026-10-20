@@ -4,12 +4,12 @@ import { motion } from 'framer-motion';
 
 const HeroSection = () => {
   const bookCovers = [
-    { title: "Mindfulness Creators", image: "/images/book1.jpeg" },
-    { title: "Password Manager Setup", image: "/images/book2.jpeg" },
-    { title: "Interview Success Blueprint", image: "/images/book1.jpeg" },
-    { title: "Atomic Execution", image: "/images/book2.jpeg" },
-    { title: "The Flywheel Model", image: "/images/book1.jpeg" },
-    { title: "Psychology of Selling", image: "/images/book2.jpeg" },
+    { title: "Mindfulness Creators", image: "/hackathonWeb/images/book1.jpeg" },
+    { title: "Password Manager Setup", image: "/hackathonWeb/images/book2.jpeg" },
+    { title: "Interview Success Blueprint", image: "/hackathonWeb/images/book1.jpeg" },
+    { title: "Atomic Execution", image: "/hackathonWeb/images/book2.jpeg" },
+    { title: "The Flywheel Model", image: "/hackathonWeb/images/book1.jpeg" },
+    { title: "Psychology of Selling", image: "/hackathonWeb/images/book2.jpeg" },
   ];
 
   // Double the array for seamless infinite looping
@@ -29,7 +29,7 @@ const HeroSection = () => {
               <img 
                 key={i}
                 className="w-8 h-8 rounded-full border-2 border-black object-cover" 
-                src={`/images/book${i}.jpeg`} 
+                src={`/hackathonWeb/images/book${i}.jpeg`} 
                 alt="creator avatar" 
               />
             ))}

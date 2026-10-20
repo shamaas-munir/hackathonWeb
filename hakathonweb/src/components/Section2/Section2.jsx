@@ -10,73 +10,73 @@ const Section4 = () => {
             id: 1,
             title: "Scale Your Business with Smart Chatbot",
             description: "Email course designed to help you provide guidance on using chatbots to save time, generate leads, and scale your business.",
-            image: "/images/Screen Shot 2026-01-07 at 2.15.44 PM.png" // Replace with real image URL later
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.15.44 PM.png" // Replace with real image URL later
         },
         {
             id: 2,
             title: "Preparing SOPs for Automation",
             description: "Checklist to guide your customers through preparing their SOPs for automation by organizing tasks.",
-            image: "/images/Screen Shot 2026-01-07 at 2.17.51 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.17.51 PM.png"
         },
         {
             id: 3,
             title: "The 5-Step AI Lesson Planning Process",
             description: "Guide to help teachers use AI tools to plan smarter lessons, save time, and improve teaching results with less effort.",
-            image: "/images/Screen Shot 2026-01-07 at 2.18.18 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.18.18 PM.png"
         },
         {
             id: 4,
             title: "Email Marketing Mastery Bundle",
             description: "Complete done-for-you email sequence templates for launching products, nurturing leads, and boosting sales.",
-            image: "/images/Screen Shot 2026-01-07 at 2.18.38 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.18.38 PM.png"
         },
         {
             id: 5,
             title: "Social Media Content Calendar 2026",
             description: "365-day plug-and-play content calendar with captions, hashtags, and post ideas for multiple niches.",
-            image: "/images/Screen Shot 2026-01-07 at 2.19.23 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.19.23 PM.png"
         },
         {
             id: 6,
             title: "Faceless YouTube Channel Starter Kit",
             description: "Scripts, thumbnails, and channel setup guide to launch profitable faceless channels fast.",
-            image: "/images/Screen Shot 2026-01-07 at 2.19.40 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.19.40 PM.png"
         },
         {
             id: 7,
             title: "Digital Product Launch Checklist",
             description: "Step-by-step checklist to successfully launch your digital product with maximum conversions.",
-            image: "/images/Screen Shot 2026-01-07 at 2.19.40 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.19.40 PM.png"
         },
         {
             id: 8,
             title: "Canva Template Pack for Coaches",
             description: "50+ customizable Canva templates for workbooks, lead magnets, and client deliverables.",
-            image: "/images/Screen Shot 2026-01-07 at 2.20.01 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.20.01 PM.png"
         },
         {
             id: 9,
             title: "Passive Income with Printables",
             description: "Guide + templates to create and sell printable planners, trackers, and journals on Etsy.",
-            image: "/images/Screen Shot 2026-01-07 at 2.18.18 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.18.18 PM.png"
         },
         {
             id: 10,
             title: "Mindset & Manifestation Journal Prompts",
             description: "180 powerful journal prompts for personal growth coaches to sell or use as lead magnets.",
-            image: "/images/Screen Shot 2026-01-07 at 2.18.02 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.18.02 PM.png"
         },
         {
             id: 11,
             title: "Instagram Reels Script Pack",
             description: "100 viral reel scripts for business, wellness, and lifestyle niches — ready to record.",
-            image: "/images/Screen Shot 2026-01-07 at 2.17.51 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.17.51 PM.png"
         },
         {
             id: 12,
             title: "Client Onboarding Automation Kit",
             description: "Emails, forms, and workflows to automate client onboarding and deliver premium experience.",
-            image: "/images/Screen Shot 2026-01-07 at 2.18.18 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.18.18 PM.png"
         },
     ];
 

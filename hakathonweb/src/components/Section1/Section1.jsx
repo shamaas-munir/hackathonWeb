@@ -8,7 +8,7 @@ const Section1 = () => {
             description:
                 "10 proven funnels that turn your leads into customers using digital products.",
             button: "Copy proven funnels",
-            image: "/images/Screen Shot 2026-01-07 at 2.44.03 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.44.03 PM.png"
         },
         {
             id: 2,
@@ -16,7 +16,7 @@ const Section1 = () => {
             description:
                 "Access a guide full of actionable steps and tips for growing your online business.",
             button: "Kickstart your business",
-            image: "/images/Screen Shot 2026-01-07 at 2.44.32 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.44.32 PM.png"
         },
         {
             id: 3,
@@ -24,7 +24,7 @@ const Section1 = () => {
             description:
                 "This free guide reveals the exact pricing frameworks used by top online sellers.",
             button: "Get your pricing right",
-            image: "/images/Screen Shot 2026-01-07 at 2.45.10 PM.png"
+            image: "/hackathonWeb/images/Screen Shot 2026-01-07 at 2.45.10 PM.png"
         },
     ];
 
